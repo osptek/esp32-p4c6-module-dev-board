@@ -279,6 +279,8 @@ esp32-p4c6-module-dev-board/
 
 ### This Product
 
+- [ESP32-P4-Module User Guide (EN)](./docs/ESP32-P4-Module_User%20Guide%2020260910.pdf)
+- [ESP32-P4-Module 使用指南 (CN, includes schematic)](./docs/ESP32-P4-Module_使用指南2026.09.10（含原理图）.pdf)
 - [ESP32P4C6 Dev Board User Manual (CN)](./docs/ESP32P4C6%E5%BC%80%E5%8F%91%E6%9D%BF%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf)
 - [ESP32P4 module baseboard schematic V1.3](./docs/ESP32P4%E6%A8%A1%E7%BB%84%E5%9F%BA%E7%A1%80%E5%BA%95%E6%9D%BFV1.3.pdf)
 
